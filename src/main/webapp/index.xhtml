@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+              xmlns:h="http://java.sun.com/jsf/html"
+              xmlns:f="http://java.sun.com/jsf/core"
+              xmlns:p="http://primefaces.org/ui">
+<h:head>
+  <title>JFS App|Template</title>
+  <h:outputStylesheet library="css" name="index.css" /> 
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+</h:head>
+
+<h:body>
+	<div class="jsf-template-container">
+		<h:graphicImage styleClass="rotating-image" library="images" name="java-server-faces.png" alt="java server faces icon" />
+		<h1 class="jsf-text">Jsf App</h1>
+	</div>	
+		
+	<h:form styleClass="little-game-area">
+		<h:outputText styleClass="counter-text" value="#{appBean.numberCount}" id="counterText" />
+				
+		<div class="buttons-row">
+			<h:commandButton styleClass="button-64" value="Decrement" actionListener="#{appBean.decrementCounter}">					
+				<f:ajax render="counterText" />
+			</h:commandButton>
+				
+			<h:commandButton styleClass="button-30" value="Increment" actionListener="#{appBean.incrementCounter}">
+				<f:ajax render="counterText" />
+			</h:commandButton>
+		</div>		
+	</h:form>
+	
+	<div style="margin-top: 20px">
+		<h:outputText value="JspApp Version: #{appBean.appVersion}" />
+	</div>
+</h:body>
+
+</html>

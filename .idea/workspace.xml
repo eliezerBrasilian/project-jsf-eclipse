@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e834d6e0-ddb1-4048-933f-0012bcee79ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/only_generate_jar_file.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/java/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/java/br/app/LoginBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/WEB-INF/lib/jsf-api-2.1.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/WEB-INF/lib/jsf-api-2.2.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/WEB-INF/lib/jsf-impl-2.1.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/WEB-INF/lib/jsf-impl-2.2.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/main/webapp/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/src/test/java/br/app/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/target/classes/META-INF/maven/myproject/myproject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/target/classes/META-INF/maven/myproject/myproject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/target/classes/br/app/LoginBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsf-template/jsfapp/target/test-classes/br/app/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsfapp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/JsfTemplateDownloader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/JsfTemplateDownloader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/JsfTemplateDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/JsfTemplateDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/jsfapp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../src/jsfapp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/template_setup.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../src/template_setup.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/template_setup/jsfapp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../src/template_setup/jsfapp.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eliezerBrasilian"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eliezerBrasilian/jsf-template.git",
+    "accountId": "6c75842c-6e74-4cbb-bad6-0de959770655"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2nZfKI75NZsHJgjuX6t87NfOdIO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="jsfapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="jsfapp" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e834d6e0-ddb1-4048-933f-0012bcee79ac" name="Changes" comment="" />
+      <created>1729185454833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729185454833</updated>
+    </task>
+    <servers />
+  </component>
+</project>
